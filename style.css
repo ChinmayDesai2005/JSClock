@@ -1,0 +1,22 @@
+body{
+    background-color:black;
+    top: 100%;
+    left: 100%;
+}
+.timediv{
+    display: inline-block;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-top: -50px;
+    text-align: center;
+    background-color: black;
+}
+p{
+    color:white;
+    font-family: 'Big Shoulders Stencil Display', cursive;
+    font-size: 250px;
+    font-smooth: auto;
+}
